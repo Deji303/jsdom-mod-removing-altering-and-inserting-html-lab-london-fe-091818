@@ -1,6 +1,5 @@
 /* Enter the code to remove the main node element under this comment */
-var dog = document.body.querySelector("main#main");
-dog.remove();
+ document.querySelector("main#main").remove();
 
 
 /* Create your new element here and assign it to newHeader */
