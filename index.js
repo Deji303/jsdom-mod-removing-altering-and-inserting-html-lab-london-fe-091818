@@ -6,7 +6,7 @@
 // const newHeader = null;
 
 const newHeader = document.createElement("h1");
-newHeader.innerHTML = "Deji is the champion!";
+newHeader.innerHTML = "Steven is the champion!";
 newHeader.id = "victory";
 document.body.appendChild(newHeader);
 
